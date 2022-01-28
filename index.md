@@ -9,5 +9,5 @@ footnote-prefix: article1
 
 *   [Overview](#overview)
 
-## Overview [overview]
+## Overview
 here be dragons
