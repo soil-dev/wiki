@@ -3,6 +3,7 @@ title: document title
 slug: article1
 footnote-prefix: article1
 ---
+
 An h1 header
 ============
 
