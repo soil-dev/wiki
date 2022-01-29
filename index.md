@@ -31,7 +31,7 @@ Unicode is supported. ☺
 
 
 
-An h2 header {#id .className attrName=attrValue class="class1 class2"}
+[An h2 header](#h2-head) {#h2-head .className attrName=attrValue class="class1 class2"}
 ------------
 
 Here's a numbered list:
