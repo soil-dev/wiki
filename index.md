@@ -31,7 +31,7 @@ Unicode is supported. ☺
 
 
 
-An h2 header
+[An h2 header](#h2)
 ------------
 
 Here's a numbered list:
