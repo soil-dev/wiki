@@ -4,7 +4,7 @@ slug: article1
 footnote-prefix: article1
 ---
 
-An h1 header
+[An h1 header](#h1-head) {#h1-head}
 ============
 
 Paragraphs are separated by a blank line.
@@ -31,7 +31,7 @@ Unicode is supported. ☺
 
 
 
-[An h2 header](#h2-head) {#h2-head .className attrName=attrValue class="class1 class2"}
+[An h2 header](#h2-head) {#h2-head}
 ------------
 
 Here's a numbered list:
@@ -69,7 +69,7 @@ for i in range(10):
 
 
 
-### An h3 header ###
+### [An h3 header](#h3-head) {#h3-head}
 
 Now a nested list:
 
