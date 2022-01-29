@@ -67,7 +67,14 @@ for i in range(10):
     print(i)
 ~~~
 
-
+`
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print(i)
+`
 
 ### [An h3 header](#h3-head) {#h3-head}
 
