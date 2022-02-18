@@ -153,7 +153,7 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-![example image](media/wine-cetification-levels.jpg "An exemplary image")
+![example image](media/wine-cetification-levels.jpg "An exemplary image") {#id .className attrName=attrValue class="class1 class2"}
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
